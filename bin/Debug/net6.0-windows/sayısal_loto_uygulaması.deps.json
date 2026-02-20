@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sayısal_loto_uygulaması/1.0.0": {
+        "runtime": {
+          "sayısal_loto_uygulaması.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sayısal_loto_uygulaması/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

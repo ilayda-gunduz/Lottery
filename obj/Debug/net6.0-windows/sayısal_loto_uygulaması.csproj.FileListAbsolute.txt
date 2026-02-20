@@ -1,0 +1,17 @@
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.csproj.AssemblyReference.cache
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.Form1.resources
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.csproj.GenerateResource.cache
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.AssemblyInfoInputs.cache
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.AssemblyInfo.cs
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\bin\Debug\net6.0-windows\sayısal_loto_uygulaması.exe
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\bin\Debug\net6.0-windows\sayısal_loto_uygulaması.deps.json
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\bin\Debug\net6.0-windows\sayısal_loto_uygulaması.runtimeconfig.json
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\bin\Debug\net6.0-windows\sayısal_loto_uygulaması.dll
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\bin\Debug\net6.0-windows\sayısal_loto_uygulaması.pdb
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.dll
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\refint\sayısal_loto_uygulaması.dll
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.pdb
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\sayısal_loto_uygulaması.genruntimeconfig.cache
+C:\Users\ilayda\Desktop\Udemy Projeler\sayısal_loto_uygulaması\obj\Debug\net6.0-windows\ref\sayısal_loto_uygulaması.dll
